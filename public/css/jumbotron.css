@@ -1,0 +1,55 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+
+path:hover {
+  fill: darkturquoise;
+  stroke: darkblue;
+}
+
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+.feature {
+  fill: #99CCCC;
+  cursor: pointer;
+}
+
+.feature.active {
+  fill: orange;
+}
+
+#chart {
+  height:300px;
+  width:300px;
+}
+
+#chart rect {
+  fill: #FF8568;
+  
+}
+
+
+#unemp-num {
+  color: #FF8568;
+  font-weight: bold;
+}
+
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.text-anchor {
+  color:black;
+}

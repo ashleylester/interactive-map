@@ -1,0 +1,1 @@
+This is an interactive map visualisation of employment statistics. It uses JavaScript libraries: D3 , Bootstrap, jQuery, Topojson, and uses Bootstrap for the front-end. Employment data is from the 2011 census. The application runs on a node.js server.

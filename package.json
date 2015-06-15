@@ -1,0 +1,11 @@
+{
+  "name": "data-on-the-web",
+  "version": "0.0.0",
+  "description": "Map and chart examples.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Ashley Lester",
+  "dependencies": {
+    "express":"*"
+  }
+}
