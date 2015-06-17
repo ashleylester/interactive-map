@@ -1,1 +1,16 @@
-This is an interactive map visualisation of employment statistics. It uses JavaScript libraries: D3 , Bootstrap, jQuery, Topojson, and uses Bootstrap for the front-end. Employment data is from the 2011 census. The application runs on a node.js server.
+To run, you need a nodejs installation. The package uses the latest version
+of express.js which at the time of writing is 4.12.4.
+
+To run the example, in the project root, do this:
+
+```
+npm install
+```
+
+Start the server
+
+```
+node server.js
+```
+
+And point your browser to localhost, port 3000.
